@@ -1,5 +1,8 @@
 ## Death Stacks Bot in Haskell
 
+![image](https://github.com/johntaraj/Death-Stacks-Haskell-Board-game-/assets/134852121/3a89c0be-c3a8-48f5-99fa-c2fc0321d0be)
+
+
 ### Overview
 This project involves developing a bot for the game Death Stacks using Haskell. The project is part of a course assignment from the Technische Universität Berlin's Software and Embedded Systems Engineering Group. The assignment includes functional implementation in Haskell, testing, and version control using Git.
 
