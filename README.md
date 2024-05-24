@@ -86,7 +86,7 @@ The project is divided into two main modules:
 - Open a pull request with a detailed description of your changes.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the AGPL License.
 
 
 
